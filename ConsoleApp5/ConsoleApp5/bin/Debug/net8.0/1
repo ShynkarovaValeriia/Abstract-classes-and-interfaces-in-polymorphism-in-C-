@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course xsi:type="VideoCourse">
+    <Title>Курс 1</Title>
+    <Instructor>Викладач 1</Instructor>
+    <Duration>2</Duration>
+  </Course>
+  <Course xsi:type="TextCourse">
+    <Title>Курс 2</Title>
+    <Instructor>Викладач 2</Instructor>
+    <Duration>1</Duration>
+  </Course>
+</ArrayOfCourse>
